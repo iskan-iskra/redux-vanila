@@ -1,4 +1,4 @@
-# React AMO CRM интеграция:
+# Redux + vanila JavaScript:
 
 ## Версии:
 
